@@ -72,7 +72,7 @@ namespace DiscordTouchpadBugWorkaround
                     while (true)
                     {
                         newFilename = GetActiveProcessFileName();
-                        if (newFilename != null && !newFilename.Contains("Discord.exe"))
+                        if (newFilename == null || !newFilename.Contains("Discord.exe"))
                         {
                             Console.WriteLine("left loop");
                             break;
