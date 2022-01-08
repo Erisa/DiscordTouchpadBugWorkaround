@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordTouchpadBugWorkaround", "DiscordTouchpadBugWorkaround.csproj", "{180502CA-5B7F-4C2D-B0F6-36F650B362BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180502CA-5B7F-4C2D-B0F6-36F650B362BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180502CA-5B7F-4C2D-B0F6-36F650B362BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180502CA-5B7F-4C2D-B0F6-36F650B362BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180502CA-5B7F-4C2D-B0F6-36F650B362BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {122B1AC9-0E83-47C2-B494-B49B4CAF2142}
+	EndGlobalSection
+EndGlobal
